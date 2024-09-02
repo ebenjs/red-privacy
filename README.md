@@ -1,6 +1,6 @@
-#PRIVACY POLICY
+# PRIVACY POLICY
 
-####Last updated August 19, 2024
+#### Last updated August 19, 2024
 
 
 
@@ -10,7 +10,7 @@ Engage with us in other related ways, including any sales, marketing, or events
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at nikaboue10@gmail.com.
 
 
-##SUMMARY OF KEY POINTS
+## SUMMARY OF KEY POINTS
 
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.
 
@@ -31,7 +31,7 @@ How do you exercise your rights? The easiest way to exercise your rights is by v
 Want to learn more about what we do with any information we collect? Review the privacy notice in full.
 
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE PROCESS YOUR INFORMATION?
